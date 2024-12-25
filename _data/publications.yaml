@@ -40,6 +40,7 @@ papers:
     authors: "A. Corso, <b>K. Kim</b>, S. Gupta, G. Gao, M. Kochenderfer"
     venue: "arXiv preprint arXiv:2211.12470"
     paper_pdf: "https://arxiv.org/pdf/2211.12470"
+    code: "https://github.com/ancorso/DeepRL4RareEventEstimation"
     selected: y
 
   - title: "BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation"
