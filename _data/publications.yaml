@@ -60,6 +60,7 @@ papers:
     authors: "B. Byrne, K. Krishnamoorthi, C. Sankar, A. Neelakantan, D. Duckworth, S. Yavuz, B. Goodrich, A. Dubey, A. Cedilnik, <b>K. Kim</b>"
     venue: "EMNLP-IJCNLP'19: 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing"
     paper_pdf: "https://arxiv.org/pdf/1909.05358"
+    data: "https://github.com/google-research-datasets/Taskmaster"
     selected: y
 
   - title: "Finding Overlapping Communities From Subspaces"
