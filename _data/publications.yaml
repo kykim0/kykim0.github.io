@@ -10,14 +10,14 @@ papers:
   #   selected: y
 
   - title: "Optimized Feature Generation for Tabular Data via LLMs with Decision Tree Reasoning"
-    authors: "J. Nam<sup>‡</sup>, <b>K. Kim</b><sup>‡</sup>, S. Oh, J. Tack, J. Kim, J. Shin."
+    authors: "J. Nam<sup>‡</sup>, <b>K. Kim</b><sup>‡</sup>, S. Oh, J. Tack, J. Kim, J. Shin"
     venue: "NeurIPS'24: Advances in Neural Information Processing Systems"
     paper_pdf: "https://arxiv.org/pdf/2406.08527"
     code: "https://github.com/jaehyun513/OCTree"
     selected: y
 
   - title: "Margin Matching Preference Optimization: Enhanced Model Alignment with Granular Feedback"
-    authors: "<b>K. Kim</b><sup>‡</sup>, A. Seo<sup>‡</sup>, H. Liu, J. Shin, K. Lee."
+    authors: "<b>K. Kim</b><sup>‡</sup>, A. Seo<sup>‡</sup>, H. Liu, J. Shin, K. Lee"
     venue: "EMNLP'24 Findings: Findings of the Association for Computational Linguistics: EMNLP 2024"
     paper_pdf: "https://arxiv.org/pdf/2410.03145"
     code: "https://github.com/kykim0/margin-matching-pref-opt"
@@ -43,7 +43,7 @@ papers:
     selected: y
 
   - title: "BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation"
-    authors: "C. Li, C. Gokmen, G. Levine, R. Mart´ın-Mart´ın, S. Srivastava, C. Wang, J. Wong, R. Zhang, M. Lingelbach, J. Sun, M. Anvari, M. Hwang, M. Sharma, A. Aydin, D. Bansal, S. Hunter, <b>K. Kim</b>, A. Lou, C. Matthews, I. Villa-Renteria, J. Tang, C. Tang, F. Xia, S. Savarese, H. Gweon, K. Liu, J. Wu, F.-F. Li."
+    authors: "C. Li, C. Gokmen, G. Levine, R. Mart´ın-Mart´ın, S. Srivastava, C. Wang, J. Wong, R. Zhang, M. Lingelbach, J. Sun, M. Anvari, M. Hwang, M. Sharma, A. Aydin, D. Bansal, S. Hunter, <b>K. Kim</b>, A. Lou, C. Matthews, I. Villa-Renteria, J. Tang, C. Tang, F. Xia, S. Savarese, H. Gweon, K. Liu, J. Wu, F.-F. Li"
     venue: "CoRL'22 (oral): Conference on Robot Learning"
     paper_pdf: "https://proceedings.mlr.press/v205/li23a/li23a.pdf"
     code: "https://github.com/StanfordVL/OmniGibson"
@@ -51,7 +51,7 @@ papers:
     selected: y
 
   - title: "Using Machine Translation to Localize Task Oriented NLG Output."
-    authors: "S. Roy, C. Brunk, <b>K. Kim</b>, J. Zhao, M. Freitag, M. Kale, G. Bansal, S. Mudgal, C. Varano."
+    authors: "S. Roy, C. Brunk, <b>K. Kim</b>, J. Zhao, M. Freitag, M. Kale, G. Bansal, S. Mudgal, C. Varano"
     venue: "arXiv preprint arXiv:2107.04512"
     paper_pdf: "https://arxiv.org/pdf/2107.04512"
     selected: y
