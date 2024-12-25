@@ -10,14 +10,14 @@ papers:
   #   selected: y
 
   - title: "Optimized Feature Generation for Tabular Data via LLMs with Decision Tree Reasoning"
-    authors: "J. Nam*, <b>K. Kim</b>*, S. Oh, J. Tack, J. Kim, J. Shin."
+    authors: "J. Nam<sup>‡</sup>, <b>K. Kim</b><sup>‡</sup>, S. Oh, J. Tack, J. Kim, J. Shin."
     venue: "NeurIPS'24: Advances in Neural Information Processing Systems"
     paper_pdf: "https://arxiv.org/pdf/2406.08527"
     code: "https://github.com/jaehyun513/OCTree"
     selected: y
 
   - title: "Margin Matching Preference Optimization: Enhanced Model Alignment with Granular Feedback"
-    authors: "<b>K. Kim</b>*, A. Seo*, H. Liu, J. Shin, K. Lee."
+    authors: "<b>K. Kim</b><sup>‡</sup>, A. Seo<sup>‡</sup>, H. Liu, J. Shin, K. Lee."
     venue: "EMNLP'24 Findings: Findings of the Association for Computational Linguistics: EMNLP 2024"
     paper_pdf: "https://arxiv.org/pdf/2410.03145"
     code: "https://github.com/kykim0/margin-matching-pref-opt"
