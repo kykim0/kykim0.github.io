@@ -9,6 +9,13 @@ papers:
   #   video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
   #   selected: y
 
+  - title: "Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents"
+    authors: "D. Lee<sup>‡</sup>, J. Lee<sup>‡</sup>, <b>K. Kim</b>, J. Tack, J. Shin, Y. W. Teh, K. Lee."
+    venue: "ICLR'25: International Conference on Learning Representations"
+    paper_pdf: "https://openreview.net/pdf?id=3Gzz7ZQLiz"
+    code: "https://github.com/dgjun32/lcow_iclr2025"
+    selected: y
+  
   - title: "Optimized Feature Generation for Tabular Data via LLMs with Decision Tree Reasoning"
     authors: "J. Nam<sup>‡</sup>, <b>K. Kim</b><sup>‡</sup>, S. Oh, J. Tack, J. Kim, J. Shin"
     venue: "NeurIPS'24: Advances in Neural Information Processing Systems"
