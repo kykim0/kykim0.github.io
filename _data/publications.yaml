@@ -9,6 +9,13 @@ papers:
   #   video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
   #   selected: y
 
+  - title: "Personalized Language Models via Privacy-Preserving Evolutionary Model Merging"
+    authors: "<b>K. Kim</b>, J. Shin, J. Kim"
+    venue: "arXiv preprint arXiv:2503.18008"
+    paper_pdf: "https://arxiv.org/pdf/2503.18008"
+    code: "https://github.com/kykim0"
+    selected: y
+
   - title: "Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents"
     authors: "D. Lee<sup>‡</sup>, J. Lee<sup>‡</sup>, <b>K. Kim</b>, J. Tack, J. Shin, Y. W. Teh, K. Lee."
     venue: "ICLR'25: International Conference on Learning Representations"
