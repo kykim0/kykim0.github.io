@@ -16,6 +16,12 @@ papers:
     code: "https://github.com/kykim0"
     selected: y
 
+  - title: "Mamba Drafters for Speculative Decoding"
+    authors: "D. Choi, S. Oh, S. Dingliwal, J. Tack, <b>K. Kim</b>, W. Song, S. Kim, I. Han, J. Shin, A. Galstyan, S. Katiyar, S. B. Bodapati"
+    venue: "arXiv preprint arXiv:2506.01206"
+    paper_pdf: "https://arxiv.org/pdf/2506.01206"
+    selected: y
+
   - title: "Personalized Language Models via Privacy-Preserving Evolutionary Model Merging"
     authors: "<b>K. Kim</b>, J. Shin, J. Kim"
     venue: "arXiv preprint arXiv:2503.18008"
