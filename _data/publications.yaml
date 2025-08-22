@@ -18,41 +18,41 @@ papers:
 
   - title: "Personalized Language Models via Privacy-Preserving Evolutionary Model Merging"
     authors: "<b>K. Kim</b>, J. Shin, J. Kim"
-    venue: "arXiv preprint arXiv:2503.18008"
+    venue: "EMNLP 2025"
     paper_pdf: "https://arxiv.org/pdf/2503.18008"
     code: "https://github.com/kykim0"
     selected: y
 
   - title: "Mamba Drafters for Speculative Decoding"
     authors: "D. Choi, S. Oh, S. Dingliwal, J. Tack, <b>K. Kim</b>, W. Song, S. Kim, I. Han, J. Shin, A. Galstyan, S. Katiyar, S. B. Bodapati"
-    venue: "ICML'25: Workshop on Efficient Systems for Foundation Models (ES-FoMo III)"
+    venue: "EMNLP 2025 Findings<br>ICML 2025 Workshop on Efficient Systems for Foundation Models (ES-FoMo III)"
     paper_pdf: "https://arxiv.org/pdf/2506.01206"
     selected: y
 
   - title: "Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents"
     authors: "D. Lee<sup>‡</sup>, J. Lee<sup>‡</sup>, <b>K. Kim</b>, J. Tack, J. Shin, Y. W. Teh, K. Lee."
-    venue: "ICLR'25: International Conference on Learning Representations"
+    venue: "ICLR 2025"
     paper_pdf: "https://openreview.net/pdf?id=3Gzz7ZQLiz"
     code: "https://github.com/dgjun32/lcow_iclr2025"
     selected: y
   
   - title: "Optimized Feature Generation for Tabular Data via LLMs with Decision Tree Reasoning"
     authors: "J. Nam<sup>‡</sup>, <b>K. Kim</b><sup>‡</sup>, S. Oh, J. Tack, J. Kim, J. Shin"
-    venue: "NeurIPS'24: Advances in Neural Information Processing Systems"
+    venue: "NeurIPS 2024"
     paper_pdf: "https://arxiv.org/pdf/2406.08527"
     code: "https://github.com/jaehyun513/OCTree"
     selected: y
 
   - title: "Margin Matching Preference Optimization: Enhanced Model Alignment with Granular Feedback"
     authors: "<b>K. Kim</b><sup>‡</sup>, A. Seo<sup>‡</sup>, H. Liu, J. Shin, K. Lee"
-    venue: "EMNLP'24 Findings: Findings of the Association for Computational Linguistics: EMNLP 2024"
+    venue: "EMNLP 2024 Findings"
     paper_pdf: "https://arxiv.org/pdf/2410.03145"
     code: "https://github.com/kykim0/margin-matching-pref-opt"
     selected: y
 
   - title: "Confidence-aware Reward Optimization for Fine-tuning Text-to-Image Models"
     authors: "<b>K. Kim</b>, J. Jeong, M. An, M. Ghavamzadeh, K. Dvijotham, J. Shin, K. Lee"
-    venue: "ICLR'24: International Conference on Learning Representations"
+    venue: "ICLR 2024"
     paper_pdf: "https://arxiv.org/pdf/2404.01863"
     data: "https://github.com/kykim0/TextNorm"
     selected: y
@@ -61,7 +61,7 @@ papers:
     authors: "<b>K. Kim</b>"
     venue: "MS thesis, Stanford University"
     paper_pdf: "/assets/publications/2022_ms_thesis/mscs-thesis.pdf"
-    selected: y
+    selected: n
 
   - title: "A Deep Reinforcement Learning Approach to Rare Event Estimation"
     authors: "A. Corso, <b>K. Kim</b>, S. Gupta, G. Gao, M. Kochenderfer"
@@ -95,4 +95,4 @@ papers:
     authors: "D. Bindel, P. Chew, J. Hopcroft, <b>K. Kim</b>, C. Ponce"
     venue: "Technical Report'11"
     paper_pdf: "/assets/publications/2011_community_detect/paper.pdf"
-    selected: y
+    selected: n
