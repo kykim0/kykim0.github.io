@@ -72,7 +72,7 @@ papers:
 
   - title: "BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation"
     authors: "C. Li, C. Gokmen, G. Levine, R. Mart´ın-Mart´ın, S. Srivastava, C. Wang, J. Wong, R. Zhang, M. Lingelbach, J. Sun, M. Anvari, M. Hwang, M. Sharma, A. Aydin, D. Bansal, S. Hunter, <b>K. Kim</b>, A. Lou, C. Matthews, I. Villa-Renteria, J. Tang, C. Tang, F. Xia, S. Savarese, H. Gweon, K. Liu, J. Wu, F.-F. Li"
-    venue: "CoRL'22 (oral): Conference on Robot Learning"
+    venue: "CoRL 2022 (oral)"
     paper_pdf: "https://proceedings.mlr.press/v205/li23a/li23a.pdf"
     code: "https://github.com/StanfordVL/OmniGibson"
     data: "https://behavior.stanford.edu/behavior-1k"
