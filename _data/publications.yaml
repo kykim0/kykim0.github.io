@@ -93,6 +93,6 @@ papers:
 
   - title: "Finding Overlapping Communities From Subspaces"
     authors: "D. Bindel, P. Chew, J. Hopcroft, <b>K. Kim</b>, C. Ponce"
-    venue: "Technical Report'11"
+    venue: "Technical Report 2011"
     paper_pdf: "/assets/publications/2011_community_detect/paper.pdf"
     selected: n
