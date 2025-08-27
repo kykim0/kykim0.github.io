@@ -20,7 +20,7 @@ papers:
     authors: "<b>K. Kim</b>, J. Shin, J. Kim"
     venue: "EMNLP 2025"
     paper_pdf: "https://arxiv.org/pdf/2503.18008"
-    code: "https://github.com/kykim0"
+    code: "https://github.com/kykim0/PriME"
     selected: y
 
   - title: "Mamba Drafters for Speculative Decoding"
