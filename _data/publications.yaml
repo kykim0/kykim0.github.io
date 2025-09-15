@@ -18,7 +18,7 @@ papers:
 
   - title: "Personalized Language Models via Privacy-Preserving Evolutionary Model Merging"
     authors: "<b>K. Kim</b>, J. Shin, J. Kim"
-    venue: "EMNLP 2025"
+    venue: "EMNLP 2025 (oral)"
     paper_pdf: "https://arxiv.org/pdf/2503.18008"
     code: "https://github.com/kykim0/PriME"
     selected: y
