@@ -11,7 +11,7 @@ papers:
 
   - title: "Self-Refining Language Model Anonymizers via Adversarial Distillation"
     authors: "<b>K. Kim</b><sup>‡</sup>, H. Jeon<sup>‡</sup>, J. Shin"
-    venue: "arXiv preprint arXiv:2506.01420"
+    venue: "NeurIPS 2025"
     paper_pdf: "https://arxiv.org/pdf/2506.01420"
     code: "https://github.com/kykim0"
     selected: y
