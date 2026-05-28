@@ -1,0 +1,73 @@
+title: "Kyuyoung Kim"
+name: "Kyuyoung Kim"
+description: "PhD student, KAIST AI"
+locale: "en-US"
+url: "https://kykim0.github.io"
+baseurl: ""
+repository: "kykim0/kykim0.github.io"
+
+minimal_mistakes_skin: "default"
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
+plugins:
+  - jekyll-include-cache
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      related: false
+      classes: wide
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+author:
+  name: "Kyuyoung Kim"
+  avatar: "/assets/profile-pics/portrait.png"
+  bio: "PhD student, KAIST AI"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kykim0"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kykim0"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=9iLSqKAAAAAJ&hl=en"
+
+masthead_title: "Kyuyoung Kim"
+search: true
+
+atom_feed:
+  hide: true
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - node_modules
+  - vendor
+  - docs
+  - test
+  - README.md
+  - CHANGELOG.md
+  - package.json
+  - package-lock.json

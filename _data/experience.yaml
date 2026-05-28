@@ -1,0 +1,36 @@
+experiences:
+
+- place: "KAIST AI"
+  time: "2023 - now"
+  title: "Ph.D. Student"
+  subtitle: "Graduate School of AI"
+  category: "school"
+
+- place: "University of Washington"
+  time: "Aug 2025 - now"
+  title: "Visiting Researcher"
+  subtitle: "Allen School"
+  category: "school"
+
+- place: "Stanford University"
+  time: "2021 - 2023"
+  title: "M.S. Student"
+  subtitle: "Computer Science<br/>Distinction in Research"
+  category: "school"
+
+- place: "Google"
+  time: "2013 - 2021"
+  title: "Senior Software Engineer"
+  subtitle: "Google Assistant<br/>Google Research<br/>Display Ads"
+  category: "work"
+
+- place: "Facebook"
+  time: "Aug 2012 - Nov 2012"
+  title: "Software Engineer, Intern"
+  subtitle: "Messages Backend"
+  category: "work"
+
+- place: "Cornell University"
+  title: "B.S. Student"
+  subtitle: "Computer Science<br/>Applied Mathematics<br/>Magna cum laude"
+  category: "school"

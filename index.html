@@ -1,0 +1,55 @@
+---
+layout: single
+author_profile: true
+classes: wide
+permalink: /
+---
+
+<section id="bio">
+  <h2>Intro</h2>
+
+  <p>
+    I am a 3rd year PhD student at the <a href="https://alinlab.kaist.ac.kr/" target="_blank">Algorithmic Intelligence Lab</a> at <a href="https://gsai.kaist.ac.kr/" target="_blank">KAIST AI</a>.
+    My research focuses on developing efficient and safe methods for enhancing, aligning, and personalizing generative models, with an emphasis on language models.
+    I have broad research interests, including generative models, reinforcement learning, AI safety, and nature-inspired intelligence, among others.
+    I always strive to more deeply understand the fundamental principles behind everything I work on.
+  </p>
+
+  <p>
+    Previously, I worked as a senior software engineer at Google, developing machine learning methods to localize Google Assistant for low-resource languages.
+    I also worked in Display Ads, building backend systems and improving auction algorithms for better user experience.
+    I received an MS in Computer Science from Stanford University and a BS in Computer Science with a minor in Applied Mathematics from Cornell University.
+  </p>
+</section>
+
+<br>
+
+<section id="publications">
+  <h2>Selected Publications</h2>
+
+  <!-- <p>
+    Most recent publications on <a href="{{ site.data.main_info.google_scholar }}" target="_blank">Google Scholar</a>.<br/>
+    <sup>‡</sup> indicates equal contribution.
+  </p> -->
+
+  {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
+  <ul class="pub-list-compact">
+    {% for paper in selected_papers %}
+      <li>
+        <span class="pub-title"><strong>{{ paper.title }}</strong></span>
+        <span class="pub-meta-line">
+          <span class="pub-authors">{{ paper.authors }}.</span>
+          <span class="pub-venue"><em>{{ paper.venue }}.</em></span>
+          <span class="pub-links-inline">
+            {% if paper.paper_pdf %}<a href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>{% endif %}
+            {% if paper.slides %}<a href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>{% endif %}
+            {% if paper.poster %}<a href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>{% endif %}
+            {% if paper.video %}<a href="{{ paper.video }}" target="_blank">Video</a>{% endif %}
+            {% if paper.code %}<a href="{{ paper.code }}" target="_blank">Code</a>{% endif %}
+            {% if paper.data %}<a href="{{ paper.data }}" target="_blank">Data</a>{% endif %}
+          </span>
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
