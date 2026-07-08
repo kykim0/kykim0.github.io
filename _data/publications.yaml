@@ -10,7 +10,7 @@ papers:
 
   - title: "Correct Answers from Sound Reasoning: Verifiable Process Supervision for Language Models"
     authors: "<b>K. Kim</b>, K. Wang, Y. Xie, P. Xu, P. Sheng, C. Wei, Z. Wang, J. Shin, P. Viswanath, S. Oh"
-    venue: "arXiv:2605.12519"
+    venue: "COLM 2026"
     paper_pdf: "https://arxiv.org/pdf/2605.12519"
     selected: y
 
