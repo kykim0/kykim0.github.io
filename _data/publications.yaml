@@ -1,12 +1,15 @@
 papers:
-  # - title: "The Structure of Toxic Conversations on Twitter"
-  #   authors: "<b>Martin Saveski</b>, Brandon Roy, Deb Roy"
-  #   venue: "WWW'21: The Web Conference 2021"
-  #   paper_pdf: "/assets/publications/2021_dtox/paper.pdf"
-  #   code: "https://github.com/msaveski/toxic_conversation_structure"
-  #   data: "https://doi.org/10.7910/DVN/TRWPVB"
-  #   video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
-  #   selected: y
+  - title: "Learning to Program Retrievals: Composing Search Primitives via Reinforcement Learning"
+    authors: "<b>K. Kim</b>, Z. Xiao, Z. Wang, A. Atreya, K. Yang, J. Shin, K. Hao"
+    venue: "Preprint"
+    paper_pdf: "/assets/publications/2026_program_search/program_search.pdf"
+    selected: y
+
+  - title: "Representation-Aligned Auxiliary Supervision for Language Model Adaptation"
+    authors: "<b>K. Kim</b>, P. Sheng, A. Hebbar, P. Xu, Y. Xie, K. Wang, R. Xin, C. Wei, Z. Wang, J. Shin, P. Viswanath, S. Oh"
+    venue: "Preprint"
+    paper_pdf: "/assets/publications/2026_auxiliary_supervision/auxiliary_supervision.pdf"
+    selected: n
 
   - title: "Correct Answers from Sound Reasoning: Verifiable Process Supervision for Language Models"
     authors: "<b>K. Kim</b>, K. Wang, Y. Xie, P. Xu, P. Sheng, C. Wei, Z. Wang, J. Shin, P. Viswanath, S. Oh"
@@ -39,7 +42,7 @@ papers:
     venue: "EMNLP 2025 Findings"
     # <br>ICML 2025 Workshop on Efficient Systems for Foundation Models (ES-FoMo III)
     paper_pdf: "https://arxiv.org/pdf/2506.01206"
-    selected: y
+    selected: n
 
   - title: "Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents"
     authors: "D. Lee<sup>‡</sup>, J. Lee<sup>‡</sup>, <b>K. Kim</b>, J. Tack, J. Shin, Y. W. Teh, K. Lee"
@@ -88,7 +91,7 @@ papers:
     paper_pdf: "https://proceedings.mlr.press/v205/li23a/li23a.pdf"
     code: "https://github.com/StanfordVL/OmniGibson"
     data: "https://behavior.stanford.edu/behavior-1k"
-    selected: y
+    selected: n
 
   - title: "Using Machine Translation to Localize Task Oriented NLG Output"
     authors: "S. Roy, C. Brunk, <b>K. Kim</b>, J. Zhao, M. Freitag, M. Kale, G. Bansal, S. Mudgal, C. Varano"
@@ -101,7 +104,7 @@ papers:
     venue: "EMNLP-IJCNLP 2019"
     paper_pdf: "https://arxiv.org/pdf/1909.05358"
     data: "https://github.com/google-research-datasets/Taskmaster"
-    selected: y
+    selected: n
 
   - title: "Finding Overlapping Communities From Subspaces"
     authors: "D. Bindel, P. Chew, J. Hopcroft, <b>K. Kim</b>, C. Ponce"

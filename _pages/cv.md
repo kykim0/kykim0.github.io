@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Full CV: [PDF]({{ '/assets/cv/cv_web.pdf' | prepend: site.baseurl }})
+Full CV: [PDF]({{ '/assets/cv/cv.pdf' | prepend: site.baseurl }})
 
 ## Education
 
@@ -23,13 +23,13 @@ Minor in Applied Mathematics<br/>
 
 ## Research Experience
 
-<strong>New York University</strong> (Feb 2026 - Apr 2026)<br/>
-Visiting Researcher<br/>
-Global AI Frontier Lab<br/>
-
 <strong>University of Washington</strong> (Aug 2025 - May 2026)<br/>
 Visiting Researcher<br/>
 Paul G. Allen School of Computer Science & Engineering<br/>
+
+<strong>New York University</strong> (Feb 2026 - Apr 2026)<br/>
+Visiting Researcher<br/>
+Global AI Frontier Lab<br/>
 
 ## Professional Experience
 

@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Most recent publications on [Google Scholar]({{ site.data.main_info.google_scholar }}).
+Most recent publications on [Google Scholar]({{ site.data.main_info.google_scholar_recent }}).
 
 <!-- <sup>‡</sup> indicates equal contribution. -->
 

@@ -1330,15 +1330,15 @@ html { font-size: 16px; }
 
 .pub-links a { margin-right: 0.7rem; white-space: nowrap; }
 
-.pub-list-compact { margin: 0.4rem 0 0; }
+.pub-list-compact { margin: 0.4rem 0 0; padding-left: 0; list-style: none; }
 
 .pub-list-compact li { margin-bottom: 0.62rem; line-height: 1.48; }
 
-.pub-title, .pub-authors, .pub-venue { margin-right: 0.2rem; }
+.pub-title, .pub-authors, .pub-venue { margin-right: 0.20rem; }
 
 .pub-meta-line { display: block; margin-top: 0.1rem; }
 
-.pub-links-inline { margin-left: 0.45rem; }
+.pub-links-inline { margin-left: 0.0rem; }
 
 .pub-links-inline a { white-space: nowrap; }
 
