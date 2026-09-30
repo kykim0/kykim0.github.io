@@ -7,7 +7,7 @@ papers:
 
   - title: "Representation-Aligned Auxiliary Supervision for Language Model Adaptation"
     authors: "<b>K. Kim</b>, P. Sheng, A. Hebbar, P. Xu, Y. Xie, K. Wang, R. Xin, C. Wei, Z. Wang, J. Shin, P. Viswanath, S. Oh"
-    venue: "Preprint"
+    venue: "NeurIPS Workshop on LP4FM 2026 (oral), Outstanding Runner-Up Award"
     paper_pdf: "/assets/publications/2026_auxiliary_supervision/auxiliary_supervision.pdf"
     selected: n
 
@@ -15,6 +15,7 @@ papers:
     authors: "<b>K. Kim</b>, K. Wang, Y. Xie, P. Xu, P. Sheng, C. Wei, Z. Wang, J. Shin, P. Viswanath, S. Oh"
     venue: "COLM 2026"
     paper_pdf: "https://arxiv.org/pdf/2605.12519"
+    code: "https://github.com/kykim0/VPS"
     selected: y
 
   - title: "RedacBench: Can AI Erase Your Secrets?"
