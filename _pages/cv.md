@@ -33,6 +33,10 @@ Global AI Frontier Lab<br/>
 
 ## Professional Experience
 
+<strong>Google</strong> (Nov 2026 - Feb 2027)<br/>
+Student Researcher<br/>
+Google Cloud AI Research<br/>
+
 <strong>Meta</strong> (Jun 2026 - Nov 2026)<br/>
 Research Scientist Intern<br/>
 Meta Superintelligence Labs<br/>
