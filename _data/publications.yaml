@@ -3,6 +3,7 @@ papers:
     authors: "<b>K. Kim</b>, Z. Xiao, Z. Wang, A. Atreya, K. Yang, J. Shin, K. Hao"
     venue: "Preprint"
     paper_pdf: "http://arxiv.org/abs/2610.24854"
+    code: "https://github.com/facebookresearch/retrieval-programs"
     selected: y
 
   - title: "Representation-Aligned Auxiliary Supervision for Language Model Adaptation"
